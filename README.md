@@ -1,4 +1,4 @@
-# Projeto Sprint 8 — Y.Afisha: Otimização de Marketing com Análise de Produto e Vendas
+Otimização de Marketing com Análise de Produto e Vendas
 
 Análise do comportamento de usuários, performance de vendas e eficiência de marketing para a empresa **Y.Afisha**, com o objetivo de otimizar os gastos em aquisição de clientes. Utilizando dados de sessões, pedidos e custos, foi possível avaliar o funil de conversão, o valor gerado por cliente (LTV) e o retorno sobre o investimento (ROI).
 
